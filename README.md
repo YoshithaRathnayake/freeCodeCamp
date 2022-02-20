@@ -4,7 +4,7 @@
 
 # 
 # <a href="https://www.freecodecamp.org/certification/yoshitharathnayake/responsive-web-design"><b><i>Responsive Web Design Certificate</i></b></a>
-# <img src="The Express Course 2020 (Certificate).jpg">
+# <img src="freeCodeCamp Certificate.jpeg">
 
 #
 #
