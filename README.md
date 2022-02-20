@@ -9,7 +9,7 @@
 
 #
 #
-# <div align="center"><b><i>JavaScript Algorithms and Data Structures</i></b></a></div>
+# <b><i>JavaScript Algorithms and Data Structures</i></b></a>
 
 > Still not done
 
