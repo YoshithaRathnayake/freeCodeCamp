@@ -9,7 +9,7 @@
 
 #
 #
-# <div align="center"><b><i>The Express Course 2021</i></b></a></div>
+# <div align="center"><b><i>JavaScript Algorithms and Data Structures</i></b></a></div>
 
 > Still not done
 
