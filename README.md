@@ -3,7 +3,7 @@
 > These are the Certificates that I got from doing <a href="https://www.freecodecamp.org/YoshithaRathnayake"><b><i>freeCodeCamp Courses</i></b></a> 
 
 # 
-# Responsive Web Design Certificate
+# <b>Responsive Web Design Certificate</b>
 # <img src="The Express Course 2020 (Certificate).jpg">
 
 #
