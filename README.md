@@ -7,7 +7,7 @@
 #
 # <div align="center"><img src="freeCodeCamp Certificate.jpeg"></div>
 #
-> I got this Certificate when I am 13 years old (Grade 8D).
+> I got this Certificate when I was 13 years old (Grade 8D).
 
 #
 #
